@@ -1,0 +1,3 @@
+//Exercici 1.3 Master robotica//
+
+Fitxer de prova.
